@@ -1,0 +1,90 @@
+HTML CODE
+
+<html>
+<head>
+	<title>Paintings Landing Page</title>
+	<link rel="stylesheet" href="landingpage.css">
+</head>
+<body>
+<body style ="background-color:rgb(139, 161, 189);">
+	<div class="container">
+		<header>
+			<h1><b>Explore the World of Art</b></h1>
+			<p><h4>Discover the beauty of our paintings</h4></p>
+		</header>
+		<section class="paintings-gallery">
+			<div class="painting">
+				<img src="painting1.jpg" alt="Painting 1">
+				<h2>Abstract Landscape</h2>
+				<p>Landscape paintings may capture mountains, valleys, bodies of water, fields, forests, and coasts and may or may not include man-made structures as well as people.</p>
+			</div>
+			<div class="painting">
+				<img src="painting2.jpg" alt="Painting 2">
+				<h2>River Landscape Art</h2>
+				<p>A riverscape comprises the features of the landscape which can be found on and along a river. Most features of riverscapes include natural landforms.</p>
+			</div>
+			<div class="painting">
+				<img src="painting3.jpg" alt="Painting 3">
+				<h2>Watercolor Landscape</h2>
+				<p>A riverscape comprises the features of the landscape which can be found on and along a river. Most features of riverscapes include natural landforms but they can also include artificial landforms. </p>
+			</div>
+                        <div class="painting">
+				<img src="painting4.jpg" alt="Painting 4">
+				<h2>Waterfall Art Canvas</h2>
+				<p>Waterfall paintings capture the dynamic flow of water, symbolizing abundance and prosperity. In Vastu and Feng Shui, they're prized for attracting wealth.</p>
+			</div>
+
+		</section>
+		<section class="call-to-action">
+			<h2>Get in Touch</h2>
+			<p>Contact us to learn more or purchase a painting</p>
+			<button>Contact Us</button>
+		</section>
+	</div>
+</body>
+</html>
+
+CSS CODE
+
+.container {
+	max-width: 800px;
+	margin: 40px auto;
+     
+}
+
+header {
+	background-color:#0b4f68;
+	padding: 20px;
+	text-align: center;
+}
+
+.paintings-gallery {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.painting {
+	margin: 20px;
+	width: calc(33.33% - 20px);
+}
+
+.painting img {
+	width: 100%;
+	height: 150px;
+	object-fit: cover;
+	border-radius: 10px;
+}
+
+.painting h2 {
+	font-weight: bold;
+	margin-top: 0;
+}
+
+.call-to-action {
+	background-color:#063648;
+	padding: 20px;
+	text-align: center;
+}
+
+
