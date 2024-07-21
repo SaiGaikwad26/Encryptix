@@ -1,0 +1,222 @@
+HTML CODE
+
+<html>
+<html lang="en">
+<head>
+    <title>Tribute page</title>
+<link rel="stylesheet" type="text/css"
+href="tribute.css"/>
+<style>
+h1
+{
+ color:black;
+ text-align:center;
+ font-family:verdana;
+ font-size:40px;
+}
+</style>
+</head>
+<body>
+  <section class="gen-text" id="gt">
+     <div class="content">
+        
+     </div>
+</section>
+<h1>Dr.Anandi Gopal Joshi-The First Indian Female Doctor </h1>
+
+<section class="rd">
+  <div class="dancer">
+   <div class="contain">
+    <div class="biodata">
+     <div class="slide-row">
+      <div class="slide-col">
+       <div class="user-text">
+        <div class="hc-head">
+ <br>  
+         <h2><i> Anandibai Gopalrao Joshi</i></h2><br>
+   </div>
+
+<ul style="list-style-type:none;">
+ <li style="padding-left: 10px;"><b>~Birth: </b>31 March 1865,Kalyan.</li><br>
+ <li style="padding-left: 10px;"><b>~Death: </b>26 February 1887,Pune.</li><br>
+ <li style="padding-left: 10px;"><b>~Parents: </b>Ganpatrao Amriteshwar Joshi</li><br>
+ <li style="padding-left: 10px;"><b>~Spouse: </b>Gopalrao Joshi</li><br>
+ <li style="padding-left: 10px;"><b>~Education: </b>Woman's Medical College of Pennsylvania.</li><br>
+</ul>
+</div>
+</div>
+</div>
+<div class="user-img">
+ <img src="anandi2.jpg">
+</div>
+</div>
+</div>
+</section>
+<section class="quotes">
+    <h2 class="quotes">
+    Anandibai Gopalrao Joshi (31 March 1865 – 26 February 1887) was the first Indian female doctor of western medicine. She was the first woman from the erstwhile Bombay presidency of India to study and graduate with a two-year degree in western medicine in the United States.She was also referred to as Anandibai Joshi and Anandi Gopal Joshi (where Gopal came from Gopalrao, her husband's first name).
+  </h2>
+  </section>
+  
+  
+  <section class="home-content">
+     <h1 class="hp-head"><b>BIOGRAPHY</b></h1> 
+  <div class="home-bio">
+  <div class="trans">
+  <div class="trans-head">
+  <h1><i>Life</i></h1>
+  </div>
+  <div class="trans-con">
+  Originally named Yamuna, Joshi was born and raised in a Marathi Chitpavan Brahmin family.As was the practice at that time and due to pressure from her mother, she was married at the age of nine to Gopalrao Joshi, a widower almost twenty years her senior. After marriage, Yamuna's husband renamed her 'Anandi'.Gopalrao Joshi worked as a postal clerk in Kalyan. Later, he was transferred to Alibag, and then, finally, to Kolhapoor (Kolhapur). He was a progressive thinker, and, unusually for that time, supported education for women. She was also a relative of Pandita Ramabai.
+  At the age of fourteen, Anandibai gave birth to a boy, but the child lived only for a total of ten days due to lack of medical care. This proved to be a turning point in Anandi's life and inspired her to become a physician. After Gopalrao tried to enroll her in missionary schools and not working out, they moved to Calcutta. There she learned to read and speak Sanskrit and English.In the 1800s, it was very unusual for husbands to focus on their wives' education. Gopalrao was obsessed with the idea of Anandibai's education and wanted her to learn medicine and create her own identity in the world. One day, he came into the kitchen and found her cooking with her grandmother and proceeded to go into a raging fit. It was very uncommon for husbands to beat their wives for cooking instead of reading. As Gopalrao's obsession with Joshi's education grew, he sent her with Mrs Carpenter, a Philadelphian missionary, to America to study medicine. Before her voyage, she addressed a public hall in 1883. She addressed the lack of women doctors and said "I volunteer myself as one.Her husband encouraged her to study medicine. In 1880 he sent a letter to Royal Wilder, a well-known American missionary, stating his wife's interest in inquiring about a suitable post in the US for herself.[9] Wilder published the correspondence in his Princeton's Missionary Review. Theodicia Carpenter, a resident of Roselle, New Jersey, happened to read it while waiting to see her dentist. Impressed by both Anandibai's desire to study medicine, and Gopalrao's support for his wife, she wrote to Anandibai. Carpenter and Anandibai developed a close friendship and came to refer to each other as "aunt" and "niece." Later, Carpenter would host Anandibai in Rochelle during Joshi's stay in the U.S."
+  </div></div>
+  <div class="trans">
+  <div class="trans-head">
+  <h1><i>Death</i></h1>
+  </div>
+  <div class="trans-con">
+    Anandibai died of tuberculosis early the next year on 26 February 1887 before turning 22 in Pune. Years preceding her death, she was fatigued and felt constant weaknesses. Medicine was sent to her from America but there were no results so she kept studying medicine until death. Her death was mourned throughout India. Her ashes were sent to Theodicia Carpenter, who placed them in her family cemetery at the Poughkeepsie Rural Cemetery in Poughkeepsie, New York. The inscription states that Anandi Joshi was a Hindu Brahmin girl, the first Indian woman to receive education abroad and to obtain a medical degree
+  </div><div>
+    <div class="trans">
+        <div class="trans-head">
+        <h1><i>Legacy</i></h1>
+        </div>
+        <div class="trans-con">
+            In 1888, American feminist writer Caroline Wells Healey Dall wrote Joshi's biography. Dall was acquainted with Joshi and admired her greatly. However, certain points in the biography, particularly its harsh treatment of Gopalrao Joshi, sparked controversy among Joshi's friends.
+
+            Doordarshan, an Indian public service broadcaster aired a Hindi series based on her life, called "Anandi Gopal" and directed by Kamlakar Sarang. Shrikrishna Janardan Joshi wrote a fictionalised account of her life in his Marathi novel Anandi Gopal, which was adapted into a play of the same name by Ram G. Joglekar.
+            
+            Dr. Anjali Kirtane has extensively researched the life of Dr. Anandibai Joshi and has written a Marathi book entitled "डॉ. आनंदीबाई जोशी काळ आणि कर्तृत्व" ("Dr. Anandibai Joshi, Kaal ani Kartutva: Dr. Anandibai Joshi, her times and accomplishments") which contains rare photographs of Dr. Anandibai Joshi.
+            
+            The Institute for Research and Documentation in Social Sciences (IRDS), a non-governmental organization from Lucknow, has been awarding the Anandibai Joshi Award for Medicine in honour of her early contributions to the cause of advancing medical science in India.In addition, the Government of Maharashtra has established a fellowship in her name for young women working on women's health.
+            
+            On 31 March 2018, Google honored her with a Google Doodle to mark her 153rd birth anniversary.
+            
+            Anandi Gopal, an Indian biographical film on her life in Marathi by Sameer Vidwans released in 2019. It stars Bhagyashree Milind in the titular role, Lalit Prabhakar as her husband - Gopalrao Joshi and Yogesh Soman as her father - Ganpatrao Amriteshwar Joshi.In 2017, a Gujarati-language play titled Dr. Anandibai Joshi, directed by Manoj Shah, premiered at the National Centre for the Performing Arts.
+        </div><div>
+  </section>
+</body>
+</html>
+
+CSS CODE
+
+{
+    margin:0;
+    padding:0;
+    font-family:'Work sans',sans-serif;
+   }
+   *::selection{
+         background-color:rgb(255, 192, 203);
+   }
+   .gen-text{
+    background-color:rgb(255, 192, 203);
+    text-align:center;
+    padding:20px;
+   }
+   .gen-text .content .text1{
+    font-size: 40px;
+   }
+   .gen-text .content .text 1 span {
+    color:rgb(236, 59, 168);
+    font-weight:500;
+   }
+   .dancer{
+    background:rgb(255, 208, 216);
+    height:70vh;
+    width:100%;
+    position: relative;
+   }
+   .contain{
+    width:850px;
+    height:450px;
+   position:absolute;
+   top:50%;
+   left:50%;
+   transform:translate(-50%,-50%);
+   }
+   .slide-row{
+    display:flex;
+    width:100vh;
+   }
+   .slide-col{
+    width:850px;
+    height:450px;
+    position:relative;
+   }
+   .user-img{
+     position:absolute;
+     top:10;
+     left:-50;
+     height:100%;
+   }
+   .user-img img{
+     height:100%;
+     border-radius:0px;
+   }
+   .user-text{
+     background-color:rgb(236, 110, 168);
+     height:260px;
+     width:465px;
+     position:absolute;
+     top:50%;
+     left:80%;
+     transform:translateY(-50%);
+     border-radius:0px'
+     padding:30px;
+     box-sizing:border-box;
+     z-index:2;
+   }
+   .home-content{
+     padding:20px;
+     background-color:rgb(255, 208, 216);
+   }
+   .hc-head{
+     text-align:center;
+     padding:0.02px;
+     font-weight:10;
+     font-size:17px;
+   }
+   .home-content .home-bio{
+    display:grid;
+    grid-template-colums:repeat(auto-fit,minmax(30rem,1fr));
+    gap:1rem;
+   }
+   .legabio{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(20rem,1fr));
+    gap:0.1rem;
+   }
+   .trans{
+     background:rgba9255, 255, 255, 0.363);
+     padding:30px;
+     margin:10px;
+     border-radius:10px;
+   }
+   .awards{
+     background-color:rgb(236, 110, 168);
+     padding:20px;
+     margin:10px;
+   }
+   .trans-con{
+     padding:30px;
+     text-align:justify;
+   }
+   .trans-head{
+      text-align:center;
+      padding:10px;
+   }
+   .quotes{
+   background-color:rgb(255,208,216);
+   padding:30px;
+   }
+   .quote-head{
+   padding:20px 100px 20px 100px;
+   text-align:justify;
+   }
+                 
+   .hp-head{
+     text-align:center;
+     padding:10px;
+     font-weight:100;
+     font-size:50px;
+   }
